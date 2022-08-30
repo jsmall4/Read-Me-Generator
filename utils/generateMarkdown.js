@@ -4,7 +4,7 @@ function renderLicenseBadge(badge) {
   if (badge === "none") {
     return "";
   } else {
-    return `-[Badge](#badge)`;
+    return;
   }
 }
 
@@ -14,7 +14,7 @@ function renderLicenseLink(license) {
   if (license === "none") {
     return "";
   } else {
-    return `-[License](#license)`;
+    return;
   }
 }
 
@@ -24,8 +24,7 @@ function renderLicenseSection(license) {
   if (license === "none") {
     return "";
   } else {
-    return `#License
-    This project is covered under the following license: ${license}`;
+    return;
   }
 }
 
@@ -34,22 +33,28 @@ function generateMarkdown(data) {
   console.log(data);
 
   // ## Name:
-  return `# ${data.title};
+  return `# Project Title: ${data.title}
 
-  // ## Author Name:
-  ${data.name};
+  ## Author Name:
+  ${data.name}
 
-  // ## Technologies used:
-  ${data.type};
+  ## Technologies used:
+  ${data.type}
 
-  // ## Username:
-  ${data.username};
+  ## GitHub Username:
+  ${data.username}
 
-  // ## Description:
-  ${data.description};
+  ## Description:
+  ${data.description}
 
-  // ## License:
-  ${data.license};
+  ## Usage:
+  ${data.usage}
+
+  ## License:
+  ${data.license}
+
+  ## Contact Info: 
+  For further information on this project please contact me via ${data.email}
 
 `;
 }

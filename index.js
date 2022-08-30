@@ -27,6 +27,14 @@ const questions = [
     name: "description",
     message: "Describe you project...",
   },
+
+  {
+    type: "checkbox",
+    name: "usage",
+    message: "what is your intended usage?",
+    choices: ["Personal", "Professional", "Academic"],
+  },
+
   {
     type: "list",
     name: "license",
@@ -38,6 +46,7 @@ const questions = [
       "Unlicensed",
     ],
   },
+  { type: "input", name: "email", message: "What is your email?" },
 ];
 
 // TODO: Create a function to write README file

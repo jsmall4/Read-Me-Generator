@@ -1,17 +1,23 @@
-# read me gen;
+# Project Title: read me gen
 
-  // ## Author Name:
-  jack;
+  ## Author Name:
+  jack
 
-  // ## Technologies used:
-  Javascript;
+  ## Technologies used:
+  Javascript
 
-  // ## Username:
-  jsmall;
+  ## GitHub Username:
+  jsmal
 
-  // ## Description:
-  node.js;
+  ## Description:
+  node.js
 
-  // ## License:
-  MIT License;
+  ## Usage:
+  Personal,Academic
+
+  ## License:
+  MIT License
+
+  ## Contact Info: 
+  For further information on this project please contact me via jsmall@icloud.com
 
