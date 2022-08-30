@@ -1,23 +1,37 @@
-# Project Title: read me gen
+
+  
+  # Project Title: 
+
+  ## Table of contents: 
+  - [Author Name](#author-name:)
+  - [Technologies used](#technologies-used:)
+  - [Username](#gitHub-username:)
+  - [Description](#description:)
+  - [Usage](#usage:)
+  
+  - [Contributors](#contributors:)
+  - [Contact Info](#contact-info:)
 
   ## Author Name:
-  jack
+  
 
   ## Technologies used:
-  Javascript
+  
 
   ## GitHub Username:
-  jsmal
+  
 
   ## Description:
-  node.js
+  
 
   ## Usage:
-  Personal,Academic
+  
 
-  ## License:
-  MIT License
+  
+
+  ## Contributors:
+  
 
   ## Contact Info: 
-  For further information on this project please contact me via jsmall@icloud.com
+  For further information on this project please contact me via 
 

@@ -40,12 +40,14 @@ const questions = [
     name: "license",
     message: "Pick an applicable license to use for your project:",
     choices: [
-      "apache License v2.0",
-      "GNU General Public License v3.0",
-      "MIT License",
-      "Unlicensed",
+      "Apache_2.0",
+      "GPLv3",
+      "MIT",
+      "none",
     ],
   },
+  { type: "input", name: "contributors", message: "Name any contributors..." },
+
   { type: "input", name: "email", message: "What is your email?" },
 ];
 
