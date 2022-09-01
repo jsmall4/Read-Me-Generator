@@ -20,7 +20,7 @@ const questions = [
   {
     type: "input",
     name: "username",
-    message: "What is your github username?",
+    message: "What is your github username (include your profile URL)?",
   },
   {
     type: "input",
@@ -39,12 +39,7 @@ const questions = [
     type: "list",
     name: "license",
     message: "Pick an applicable license to use for your project:",
-    choices: [
-      "Apache_2.0",
-      "GPLv3",
-      "MIT",
-      "none",
-    ],
+    choices: ["Apache_2.0", "GPLv3", "MIT", "none"],
   },
   { type: "input", name: "contributors", message: "Name any contributors..." },
 
