@@ -19,6 +19,12 @@ This project is built under the MIT License.
 
 # Video URL:
 
+https://drive.google.com/file/d/1c9snY66QLxRsrtTAFADuvQzIzSIry-j1/view
+
+# Github Repo:
+
+https://github.com/jsmall4/Read-Me-Generator
+
 # Tests:
 
 To perform tests on this project, use the command node index to run the index.js file.

@@ -1,6 +1,6 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-# Project Title: ReadME.md Generator
+# Project Title: read me generator
 
 ## Table of contents:
 
@@ -15,7 +15,7 @@
 
 ## Author Name:
 
-Jack Smallwood
+Jack
 
 ## Technologies used:
 
@@ -23,11 +23,11 @@ Javascript
 
 ## GitHub Username:
 
-JSmall4
+jsmall4
 
 ## Description:
 
-using node.js to create a readme
+create a read me file using node.js and npm inquirer
 
 ## Usage:
 
@@ -39,6 +39,8 @@ MIT
 
 ## Contributors:
 
+none
+
 ## Contact Info:
 
-For further information on this project please contact me via jsmall@live.co.uk
+For further information on this project please contact me via jacksmallwood@icloud.com
